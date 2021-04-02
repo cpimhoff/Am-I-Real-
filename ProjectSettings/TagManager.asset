@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player Universe 1
+  - World Universe 1
+  - Player Universe 2
+  - World Universe 2
+  - Player Universe 3
+  - World Universe 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 216027203
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Universe 1
+    uniqueID: 1083200815
+    locked: 0
+  - name: Universe 2
+    uniqueID: 3156522753
+    locked: 0
+  - name: Universe 3
+    uniqueID: 1009200151
+    locked: 0
+  - name: Foreground
+    uniqueID: 4255597607
+    locked: 0
+  - name: UI
+    uniqueID: 2976374971
+    locked: 0
